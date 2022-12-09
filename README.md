@@ -1,5 +1,5 @@
 # devblocks-tiktok-comment-url-extractor
-[<img src="https://github.com/upintheairsheep/devblocks-tiktok-comment-url-extractor/blob/main/Screenshot%202022-12-09%209.22.59%20AM.png?raw=true" width="50%" alt="tiktok app lore logo">]
+<img src="https://github.com/upintheairsheep/devblocks-tiktok-comment-url-extractor/blob/main/Screenshot%202022-12-09%209.22.59%20AM.png?raw=true" width="10%" alt="tiktok app lore logo">
 A TikTok comment URL extractor that uses the V2 API (replies not supported). Use the tool to phrase, download, archive, or process with the tool of your choice.
 
 Please https://dev-blocks.powerbox1000.repl.co/ to load the project
